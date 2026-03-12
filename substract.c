@@ -2,8 +2,8 @@
 int main(){
     int a = 10;
     int b = 20;
-    int sum;
-    sum = a + b;
+    int subs;
+    subs = a - b;
     printf("The sum is %d",sum);
     return 0;
 }
